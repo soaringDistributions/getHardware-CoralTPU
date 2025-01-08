@@ -2,3 +2,6 @@
 	path = _lib/ubiquitous_bash
 	url = git@github.com:mirage335-colossus/ubiquitous_bash.git
 	shallow = true
+[submodule "_lib/gasket-driver"]
+	path = _lib/gasket-driver
+	url = git@github.com:soaringDistributions/gasket-driver.git
